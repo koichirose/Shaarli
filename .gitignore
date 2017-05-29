@@ -8,3 +8,5 @@ pagecache
 .settings
 .buildpath
 .project
+
+.htpasswd

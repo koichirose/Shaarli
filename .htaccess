@@ -1,0 +1,4 @@
+AuthName "Restricted Area"
+AuthType Basic
+AuthUserFile /home/koichirose/public_html/bookmarks/.htpasswd
+require valid-user
